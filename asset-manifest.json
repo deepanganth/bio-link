@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bio-link/static/css/main.a751e9d2.css",
+    "main.js": "/bio-link/static/js/main.e054c216.js",
+    "static/js/787.136a93c8.chunk.js": "/bio-link/static/js/787.136a93c8.chunk.js",
+    "static/media/DD copy.jpg": "/bio-link/static/media/DD copy.5932956722c9ff54613f.jpg",
+    "static/media/captain-america.png": "/bio-link/static/media/captain-america.ca01a1319f0ff178ddf1.png",
+    "static/media/greenGithub.png": "/bio-link/static/media/greenGithub.298efc568ee09e6a0c2d.png",
+    "static/media/greenTwitter.png": "/bio-link/static/media/greenTwitter.e76b4e584dc9d01145ad.png",
+    "static/media/greenInstagram.png": "/bio-link/static/media/greenInstagram.63f83171988b4914c4b9.png",
+    "static/media/greenLinkedin.png": "/bio-link/static/media/greenLinkedin.3c6ad2ae06bf8c4f8b2a.png",
+    "static/media/Instagram.svg": "/bio-link/static/media/Instagram.062f333918be06be07149b1c81e879dd.svg",
+    "static/media/Github.svg": "/bio-link/static/media/Github.35c7c6e3282cd621c2796874849b0159.svg",
+    "index.html": "/bio-link/index.html",
+    "main.a751e9d2.css.map": "/bio-link/static/css/main.a751e9d2.css.map",
+    "main.e054c216.js.map": "/bio-link/static/js/main.e054c216.js.map",
+    "787.136a93c8.chunk.js.map": "/bio-link/static/js/787.136a93c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a751e9d2.css",
+    "static/js/main.e054c216.js"
+  ]
+}
