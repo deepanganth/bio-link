@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/bio-link/static/css/main.5054195e.css",
+    "main.css": "/bio-link/static/css/main.34229b8d.css",
     "main.js": "/bio-link/static/js/main.e054c216.js",
     "static/js/787.136a93c8.chunk.js": "/bio-link/static/js/787.136a93c8.chunk.js",
+    "static/media/bg-1.jpg": "/bio-link/static/media/bg-1.b08e099a10a22ddcc0a2.jpg",
     "static/media/DD copy.jpg": "/bio-link/static/media/DD copy.5932956722c9ff54613f.jpg",
+    "static/media/bg-2.jpg": "/bio-link/static/media/bg-2.59648e49b191a9e85ca3.jpg",
     "static/media/captain-america.png": "/bio-link/static/media/captain-america.ca01a1319f0ff178ddf1.png",
     "static/media/greenGithub.png": "/bio-link/static/media/greenGithub.298efc568ee09e6a0c2d.png",
     "static/media/greenTwitter.png": "/bio-link/static/media/greenTwitter.e76b4e584dc9d01145ad.png",
@@ -12,12 +14,12 @@
     "static/media/Instagram.svg": "/bio-link/static/media/Instagram.062f333918be06be07149b1c81e879dd.svg",
     "static/media/Github.svg": "/bio-link/static/media/Github.35c7c6e3282cd621c2796874849b0159.svg",
     "index.html": "/bio-link/index.html",
-    "main.5054195e.css.map": "/bio-link/static/css/main.5054195e.css.map",
+    "main.34229b8d.css.map": "/bio-link/static/css/main.34229b8d.css.map",
     "main.e054c216.js.map": "/bio-link/static/js/main.e054c216.js.map",
     "787.136a93c8.chunk.js.map": "/bio-link/static/js/787.136a93c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5054195e.css",
+    "static/css/main.34229b8d.css",
     "static/js/main.e054c216.js"
   ]
 }
